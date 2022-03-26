@@ -1,0 +1,473 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+:root{
+	scroll-behavior: smooth;
+}
+#ahora{
+	font-size: 20px;
+	font-weight: 900;
+	font-family: cursive;
+
+}
+.titulo{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	font-family: fantasy;
+	color:blue;
+	margin-top: 90px;
+	
+}
+#empresa{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.doc{
+	margin-top: 80px;
+
+}
+.bien{
+	
+	padding-top: 20px;
+}
+.biene{
+	margin-top: 2%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif;
+	font-weight: 400;
+	font-size: 40px;
+	color: black;
+	font-weight: 900;
+
+
+	
+
+
+}
+#pregunta{
+	font-family: sans-serif;
+	
+	width: 60%;
+	height: 300px;
+	
+	margin-top:5%;
+	margin-right: ;
+	display: flex;
+	margin-left:350px;
+	justify-content: center;
+	text-align: center;
+	color: #FF7800;
+	flex-direction: column;
+	box-shadow: 2px 1px 2px 2px #85fbe6;
+	background-color:#ebf9fc ;
+}
+
+.uno{
+	font-family: cursive;
+	font size: 3em;
+	font-weight: 900;
+	color: black;
+}
+.dos{
+	font-family: Calibri;
+	font-style: oblique;
+	font-size: 40px;
+	color: blue;
+
+
+}
+.ima{
+	width: 200px;
+	height:200px;
+}
+
+.contenedor1{
+	margin-top:40px;
+	margin-left: 30px;
+}
+
+
+
+
+.contenedor0{
+	display: flex;
+	justify-content:space-between;
+}
+header{
+	width: 100%;
+	height: 600px;
+	background-image:linear-gradient(rgba(215,0,0,0.7),rgba(215,0,0,0.5), green),url("https://fotos.alquilerargentina.com/v7/propiedades/xq36/o_xq36_Complejo_CP3H5DBD.jpg?p=general");
+	backface-visibility: hidden;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: ;
+	
+
+	
+
+	
+}
+
+
+}
+.curva{
+	display: block;
+}
+
+.titulo{
+	z-index: ;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	padding-top: ;
+	width: 100%;
+	height: 90px;
+	background-color:#F1D9D7;
+}
+.spam{
+	padding-top:200px;
+}
+.trabaja{
+	text-decoration: underline 2px #1ABAC1 ;
+	text-decoration-style:double;
+	margin-left: 230px;
+	margin-top: 80px;
+}
+.tra{
+	 color:white;
+	 width: 70%;
+	 height: 160px;
+	 margin-left: 100px;
+	 margin-bottom:50px;
+	 margin-top: 50px;
+	 font-weight: 800;
+	 background-color:blue;
+	
+	 
+	 display: flex;
+	 text-align: center;
+	 justify-content: center;
+	 padding-top: 2.5%;
+	 border-radius: 80%
+
+}
+
+body{
+	width: 100%;
+	height: 100vh;
+	background-color: rgba(0,0,0,0);
+	overflow: scroll;
+
+}
+
+.imagen{
+	width: 600px;
+	height: 290px;
+	padding: 0px;
+	margin-left: 1%;
+	margin-top: 1%;
+	border: solid 2px crimson;
+
+}
+.galeria{
+	display: flex;
+	flex-wrap: wrap;
+
+
+
+}
+.titulog{
+
+}
+.somos{
+	display: flex;
+	justify-content: center;
+	color:blue;
+	margin-top: 50px;
+	
+	
+
+}
+.quienes{
+	margin-top: 50px;
+	width: 90%;
+	height: 220px;
+	box-shadow: 2px 2px 2px 3px crimson;
+	background-color:#E9EEEA;
+	font-size: 18px;
+	font-family: cursive;
+	text-shadow: 1px 1px crimson;
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 5%;
+	margin-bottom: 4%;
+	font-weight:900;
+}
+#rueda{
+	margin-left: : 3%
+}
+
+.servicios{
+
+	display: flex;
+	justify-content: center;
+	color: blue;
+	margin-top: 50px;
+	font-weight: 900;
+	
+}
+
+
+.instalaciones{
+
+	margin-top: 50px;
+	font-size: 18px;
+	font-family: cursive;
+	text-shadow: 1px 1px #F75D4D;
+	padding: 10px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	margin-left: 5%;
+	margin-bottom: 2%;
+	font-weight:900;
+	margin-left: 10%;
+}
+
+.li{
+	margin-top: 20px;
+	font-size: 17px;
+	
+	text-shadow: 1px 1px blue;
+	padding: 5px;
+	font-weight:900;
+	margin-left: 10%;
+	font-family: sans-serif;
+
+}
+.segundali{
+		display: flex;
+		flex-direction: column;
+		text-align: left;	
+		top: 0;
+		left: 30%;
+		color: red;
+		padding-left: 150px
+}
+
+
+.primerli{
+		display: inline-block;
+		flex-direction: column;
+		text-align: left;
+		color: red;
+
+
+}
+.listas{
+	display: flex;
+	padding-left: 10%;
+
+}
+.titulog{
+	display: flex;
+	justify-content: center;
+	color: blue;
+	margin-top: 50px;
+	font-weight:900; 
+}
+footer{
+	margin-top: 100px;
+	
+	
+	width: 97%;
+	margin-left: 1%;
+	height: 400px;
+	background: url("https://elsol-compress.s3-accelerate.amazonaws.com/files/1593965305081Nevada%20julio%20-%20nieve%20(2).jpg");
+	background-size: cover;
+	border: 2px solid black;
+	border-radius: 20px 30px;
+	
+	
+	
+		
+	
+
+}
+
+
+.conta{
+	margin-top: 70px;
+
+	font-family: sans-serif;
+	font-weight: 900;
+	font-size: 40px;
+	color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	
+
+}
+
+
+.what{
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+
+	
+	animation: rotarColor infinite 2s;
+
+
+
+}
+
+
+.imagfo{
+	margin-top: -100px;
+	display: flex;
+	justify-content: space-around;
+	margin-top: 2%;
+	
+}
+
+@keyframes rotarColor{
+	from{
+	filter: hue-rotate(0deg)
+}
+
+	to{
+		filter: hue-rotate(360deg);
+	}
+}
+
+.boton{
+	width: 80px;
+	height: 80px;
+	margin-top: 1%;
+}
+
+.ubi{
+	display: flex;
+	justify-content: center;
+	color: blue;
+	margin-top: 50px;
+	font-weight:900; 
+}
+
+c
+
+#boton1{
+	
+
+}
+
+
+.up{
+	margin-top:15px;
+	margin-left: 95%; 
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+	background-color: black;
+
+
+
+}
+
+
+@media screen and (max-width:500px){
+
+	
+
+
+.quienes{
+		width: 88%;
+		height: 400px;
+	}
+.listas{
+	padding-left:1px;
+}
+
+.segundali{
+	padding-left: 5px;
+}
+	
+footer{
+	height: 350px;
+	border-radius: 3% 2%;
+}		
+		
+.imagfo{
+
+	margin-top: 25%;
+}
+
+.titulog{
+	margin-bottom: 25px;
+}
+
+
+
+}
+#boton1{
+	width: 50px;
+	height: 50px;
+	margin-top: 22px;
+	margin-left: 22px;
+	border-radius: 50%;
+	border: 4px solid black;
+	cursor: pointer;
+
+}
+
+.what{
+	width: 70px;
+	height: 70px;
+	border-radius: 100%;
+	margin-top:180%;
+	animation: rotarColor infinite 2s;
+
+}
+
+.imagen{
+	border:solid orange 2px;
+}
+.bar{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	text-align: center;
+
+	
+
+	
+}
+
+.mapa{
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	text-align: center;
+	padding-left: 5px;
+	padding-right: 5px;
+	width: 100%;
+
+}
